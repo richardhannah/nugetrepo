@@ -1,1 +1,7 @@
 C:\Users\Richard.Hannah\nugetrepo\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\Richard.Hannah\nugetrepo\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Richard.Hannah\nugetrepo\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Richard.Hannah\nugetrepo\TestApplication\TestApplication\bin\Debug\TestLibrary.dll
+C:\Users\Richard.Hannah\nugetrepo\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\Richard.Hannah\nugetrepo\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\Richard.Hannah\nugetrepo\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
